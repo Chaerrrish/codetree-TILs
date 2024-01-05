@@ -1,7 +1,7 @@
+money = int(input())
+
 book = 3000
 mask = 1000
-
-money = int(input())
 
 if money >= book :
     print("book")
