@@ -8,4 +8,4 @@ if money >= book :
 elif money >= mask :
     print("mask")
 else :
-    print(no)
+    print("no")
